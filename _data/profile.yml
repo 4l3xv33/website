@@ -19,9 +19,6 @@ navigation:
   - label: Personal Projects
     url: "#personal-projects"
 links:
-  - label: Resume
-    url: "/assets/documents/Alex-Veerasammy-Resume.pdf"
-    local: true
   - label: Email
     url: "mailto:4L3XV33@protonmail.com"
   - label: ORCID

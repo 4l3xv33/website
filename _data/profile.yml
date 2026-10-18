@@ -7,8 +7,8 @@ education: M.S. Student in Artificial Intelligence
 affiliation: George Mason University
 college: College of Engineering and Computing
 location: Fairfax, Virginia
-portrait: "/assets/images/alex_and_qisa.jpg"
-portrait_alt: "Alex Veerasammy with Qisa, a robot."
+portrait: "/assets/images/alex-portrait.jpg"
+portrait_alt: "Alex Veerasammy beside a humanoid robot."
 navigation:
   - label: About
     url: "#about"

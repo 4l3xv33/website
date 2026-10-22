@@ -11,7 +11,7 @@ I'm an autonomous robotics researcher at George Mason University. My core resear
 
 I conduct research in the [Autonomous Robot Interaction Lab](https://ari-lab-gmu.github.io/) under the guidance of [Dr. David Porfirio](https://dporfirio.github.io/). My specific research interest is designing tools that help people reconstruct and troubleshoot unexpected social robot behavior using synchronized video, audio, and system logs. I'm particularly interested in how AI assistance can support this process without steering people prematurely toward a particular explanation.
 
-My academic goal is to begin my Ph.D. in Robotics in Fall 2029.
+My academic goal is to begin my PhD in Computer Science in Fall 2029.
 
 ## Interests
 {: #interests }
@@ -43,8 +43,3 @@ I'm interested in how people make sense of robot behavior after an incident, esp
   <p>Sylvie Mrug, Catheryn A. Orihuela, and <strong>Alex Veerasammy</strong></p>
   <p>A longitudinal study examining the relationship between community violence exposure and sleep problems across adolescence.</p>
 </article>
-
-## Personal Projects
-{: #personal-projects }
-
-Small builds outside the lab. Coming soon.

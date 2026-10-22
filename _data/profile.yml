@@ -16,8 +16,6 @@ navigation:
     url: "#interests"
   - label: Research
     url: "#research"
-  - label: Personal Projects
-    url: "#personal-projects"
 links:
   - label: Email
     url: "mailto:4L3XV33@protonmail.com"

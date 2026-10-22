@@ -16,15 +16,15 @@ My academic goal is to begin my Ph.D. in Robotics in Fall 2029.
 ## Interests
 {: #interests }
 
-I'm interested in how people make sense of robot behavior after an incident, especially when continuous monitoring isn't practical. This includes searching across video, audio, and logs, comparing prior incidents, and tailoring interfaces to researchers and frontline staff working together in real time or asynchronously. I also want to understand when AI suggestions help people develop explanations and when they bias that process.
+I'm interested in how people make sense of robot behavior after an incident, especially when conventional logs leave out important social context. This includes using vision-language models to describe possible interaction breakdowns and linking those descriptions to supporting visual evidence and system records. I also want to understand when these annotations help people develop explanations and when they bias that process.
 
 <ul class="interests">
   <li>Human-Robot Interaction</li>
   <li>Humanoid Social Interaction</li>
   <li>Retrospective Sensemaking</li>
-  <li>Multimodal Data Visualization</li>
+  <li>Vision-Language Models</li>
   <li>Robot Troubleshooting</li>
-  <li>AI-Assisted Sensemaking</li>
+  <li>Semantic Robot Logging</li>
 </ul>
 
 ## Research

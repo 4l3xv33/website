@@ -6,12 +6,12 @@ title: "Alex Veerasammy | Autonomous Robotics Researcher"
 ## About
 {: #about }
 
-I'm an autonomous robotics researcher at George Mason University. My core research area is human-robot interaction, with a focus on troubleshooting humanoid robot social interaction.
+I'm an autonomous robotics researcher at George Mason University. My core research area is human-robot interaction, with a focus on troubleshooting social interactions of autonomous humanoid robots.
 {: .intro }
 
 I conduct research in the [Autonomous Robot Interaction Lab](https://ari-lab-gmu.github.io/) under the guidance of [Dr. David Porfirio](https://dporfirio.github.io/). My specific research interest is designing tools that help people reconstruct and troubleshoot unexpected social robot behavior using synchronized video, audio, and system logs. I'm particularly interested in how AI assistance can support this process without steering people prematurely toward a particular explanation.
 
-My academic goal is to pursue my PhD in Fall 2028.
+My academic goal is to further this research through a PhD in Computer Science, beginning in Fall 2029.
 
 ## Interests
 {: #interests }
